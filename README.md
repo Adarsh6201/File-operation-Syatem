@@ -26,14 +26,11 @@ tkinter for the GUI (note that tkinter is included with standard Python installa
 Here's the full list of packages and the corresponding pip install commands:
 
 bash
-Copy code
 pip install pillow
 pip install tk
 However, note that tkinter usually comes pre-installed with Python. If you're using a system that separates tkinter from the core Python package (like some Linux distributions), you might need to install python-tk separately using your system's package manager.
 
 On Ubuntu/Debian-based systems:
-bash
-Copy code
 sudo apt-get install python3-tk
 
 
