@@ -36,7 +36,3 @@ sudo apt-get install python3-tk
 
 On Fedora-based systems:
 sudo dnf install python3-tkinter
-
-On macOS:
-brew install tcl-tk
-brew link --overwrite tcl-tk
